@@ -1,0 +1,3 @@
+rootProject.name = 'BaitapColorMe1'
+
+include ':app'
